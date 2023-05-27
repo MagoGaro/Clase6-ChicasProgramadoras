@@ -1,0 +1,24 @@
+html{
+    background-color: #d8be76;
+}
+.card-title{
+    color: rgb(1, 1, 1);
+    text-align: center;
+}
+
+.card-text{
+    color: black;
+    text-align: center;
+}
+
+.card-img{
+    height: 20vh;
+}
+
+header{
+    margin-bottom: 2rem;
+}
+
+.card-img-top{
+    height: 250px;
+}
